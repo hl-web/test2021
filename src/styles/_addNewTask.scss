@@ -1,0 +1,18 @@
+.add_new_task {
+  border: 1px solid #000;
+  width: 30px;
+  height: 30px;
+  float: right;
+  margin-right: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+
+.button_default {
+  background: #247ba0;
+  color: #fff;
+  margin-bottom: 20px;
+}

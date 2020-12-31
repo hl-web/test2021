@@ -1,0 +1,25 @@
+.contents {
+  width: 100%;
+  min-height: calc(100vh - #{rem(150)});
+  padding: rem(30) 0;
+}
+.container {
+  display: flex;
+  margin-top: 20px;
+  padding: 0 20px;
+  position: relative;
+}
+.dom {
+  width: 100%;
+  overflow: hidden;
+}
+.tableWrapper {
+  display: flex;
+  flex-direction: column;
+}
+.btnList {
+  display: flex;
+}
+.gantt_container {
+  height: calc(100vh - 50px - 200px);
+}
